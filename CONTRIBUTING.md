@@ -6,4 +6,4 @@ Everyone is welcome to contribute, and we value everybody's contribution. You ca
 * Submitting issues related to bugs
 * Adding new features to the code
 
-Please just note that to submit contributes, there are just a few small guidelines you need kindly to follow.(Policies)
+Please just note that to submit contributes, there are just a few small guidelines you need kindly to follow.(## *Policy)
