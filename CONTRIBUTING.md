@@ -23,7 +23,7 @@ We use GitHub pull requests for the *code review* purpose and all the submission
    
    3.2. If your pull request addresses an issue, please mention the issue number in the pull request description to make sure they are linked.
  
-4. Component changing process:
+4. Component usage:
 
    4.1. All changed components must go through the approval process.
 
