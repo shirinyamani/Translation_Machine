@@ -6,9 +6,9 @@ Everyone is welcome to contribute, and we value everybody's contribution. You ca
 * Submitting issues related to bugs
 * Adding new features to the code
 
-Please just note that to submit contributes, there are just a few small guidelines you need kindly to follow.(*Policy*)
+Please just note that to submit contributes, there are just a few small guidelines you need kindly to follow.(*Guidelines*)
 
-## Policies:
+## Guidelines:
 1. Contributor License Agreement:
 
 Contributions to this project must be accompanied by a Contributor License Agreement. You should kindly retain the copyright to your contribution. This simply gives us permission to use and redistribute your contributions as part of the project.
@@ -28,3 +28,6 @@ We use GitHub pull requests for the *code review* purpose and all the submission
    4.1. All changed components must go through the approval process.
 
    4.2. Approval for using a given open source component in one product is not approval for another deployment, even if the open source component is the same.
+
+## Policies:
+any software (proprietary, third-party, or open source) that makes its way into this project has to review the License obligations and be compatible with the License. In addition, all software must be audited and reviewed, including all proprietary software components.
