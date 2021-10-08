@@ -30,6 +30,6 @@ We use GitHub pull requests for the *code review* purpose and all the submission
    4.2. Approval for using a given open source component in one product is not approved for another deployment, even if the open source component is the same.
 
 ## Policies:
-Any software component (proprietary, third-party, or open-source) that makes its way into this project, has to review the License obligations and be compatible with the License. In addition, all contributed software components must be audited and reviewed, including all proprietary software components. Also the Not-allowed Licenses for this project is listed below;
+Any software component (proprietary, third-party, or open-source) that makes its way into this project, has to review the License obligations and be compatible with the License. In addition, all contributed software components must be audited and reviewed, including all proprietary software components. Also the #Not-allowed# Licenses for this project is listed below;
 * [PHP License](https://en.wikipedia.org/wiki/PHP_License)
 
