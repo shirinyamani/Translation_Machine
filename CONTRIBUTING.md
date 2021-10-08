@@ -31,7 +31,6 @@ We use GitHub pull requests for the *code review* purpose and all the submission
 
 ## Policies:
 Any software component (proprietary, third-party, or open-source) that makes its way into this project, has to review the License obligations and be compatible with the License. In addition, all contributed software components must be audited and reviewed, including all proprietary software components. Also the **Not-allowed** Licenses for this project is listed below;
-* [PHP License](https://en.wikipedia.org/wiki/PHP_License)
 * [Q Public License](https://en.wikipedia.org/wiki/Q_Public_License)
 * [Beerware](https://en.wikipedia.org/wiki/Beerware)
 * [Sybase Open Watcom Public License](https://en.wikipedia.org/wiki/Sybase_Open_Watcom_Public_License)
