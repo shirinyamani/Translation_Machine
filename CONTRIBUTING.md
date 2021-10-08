@@ -20,4 +20,5 @@ We use GitHub pull requests for the *code review* purpose and all the submission
 3. Pull request:
 
    3.1 The title of your pull request should be a summary of its contribution.
+   
    3.2 If your pull request addresses an issue, please mention the issue number in the pull request description to make sure they are linked.
