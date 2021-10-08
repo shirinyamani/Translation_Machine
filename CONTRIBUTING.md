@@ -19,6 +19,12 @@ We use GitHub pull requests for the *code review* purpose and all the submission
 
 3. Pull request:
 
-   3.1 The title of your pull request should be a summary of its contribution.
+   3.1. The title of your pull request should be a summary of its contribution.
    
-   3.2 If your pull request addresses an issue, please mention the issue number in the pull request description to make sure they are linked.
+   3.2. If your pull request addresses an issue, please mention the issue number in the pull request description to make sure they are linked.
+ 
+4. Component changing process:
+
+   4.1. All changed components must go through the approval process.
+
+   4.2. Approval for using a given open source component in one product is not approval for another deployment, even if the open source component is the same.
