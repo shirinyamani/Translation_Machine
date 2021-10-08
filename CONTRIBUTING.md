@@ -10,6 +10,7 @@ Please just note that to submit contributes, there are just a few small guidelin
 
 ## Policies:
 1. Contributor License Agreement:
+
 Contributions to this project must be accompanied by a Contributor License Agreement. You should kindly retain the copyright to your contribution. This simply gives us permission to use and redistribute your contributions as part of the project.
 2. Code review:
 We use GitHub pull requests for the *code review* purpose and all the submissions, including submissions by project members, need to use the mentioned method.
