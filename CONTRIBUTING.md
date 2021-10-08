@@ -1,6 +1,5 @@
 ## How to contribute?
-Everyone is welcome to contribute, and we value everybody's contribution. Code is thus not the only way to help the project.
-You can contribute in so many ways including;
+Everyone is welcome to contribute, and we value everybody's contribution. You can contribute in so many ways, including;
 * Fixing issues with the code
 * Implementing new models
 * Contributing to the the documentation
