@@ -35,7 +35,7 @@ Any software component (proprietary, third-party, or open-source) that makes its
 * [Sybase Open Watcom Public License](https://en.wikipedia.org/wiki/Sybase_Open_Watcom_Public_License)
 
 ## Code of Conduct 
-This project and everyone participating in it is governed by the `CODE_OF_CONDUCT`. By participating, you are expected to uphold this code.
+This project and everyone participating in it is governed by the `CODE_OF_CONDUCT`. Before start participating, please review the structures there.
 
 ## Start contributing! (Pull Requests)
 
