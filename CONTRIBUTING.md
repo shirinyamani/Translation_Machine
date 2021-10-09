@@ -34,8 +34,8 @@ Any software component (proprietary, third-party, or open-source) that makes its
 * [Beerware](https://en.wikipedia.org/wiki/Beerware)
 * [Sybase Open Watcom Public License](https://en.wikipedia.org/wiki/Sybase_Open_Watcom_Public_License)
 
-## Code of Consuct 
-This project and everyone participating in it is governed by the `CODE_PF_CONDUCT`. By participating, you are expected to uphold this code.
+## Code of Conduct 
+This project and everyone participating in it is governed by the `CODE_OF_CONDUCT`. By participating, you are expected to uphold this code.
 
 ## Start contributing! (Pull Requests)
 
