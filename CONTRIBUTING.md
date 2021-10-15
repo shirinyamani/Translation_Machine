@@ -11,7 +11,7 @@ First, we would really appreciate it if you could make sure the bug was not alre
 
 Did not find it? :( So we can act quickly on it, please follow these steps:
 
-* Include your **OS type and version**, the versions of **Python**, **PyTorch** and **Tensorflow** when applicable;
+* Include your **OS type and version**, the versions of **Python**, **PyTorch** and **Tensorflow** when applicable in the issue section of this project;
 * A short, self-contained, code snippet that allows us to reproduce the bug in less than 30s;
 * Provide the full traceback if an exception is raised
 
