@@ -7,11 +7,11 @@ Everyone is welcome to contribute, and we value everybody's contribution. You ca
 ## Did you find a bug?
 We thanks to the users who notify us of the problems they encounter. So thank you for reporting an issue.
 
-First, we would really appreciate it if you could make sure the bug was not already reported (use the search bar on Github under Issues).
+First, we would really appreciate it if you could make sure the bug was not already reported (use the search bar on Github under [Issues](https://github.com/shirin1996/Prediction_Project/issues)).
 
 Did not find it? :( So we can act quickly on it, please follow these steps:
 
-* Include your **OS type and version**, the versions of **Python**, **PyTorch** and **Tensorflow** when applicable in the issue section of this project;
+* Include your **OS type and version**, the versions of **Python**, **PyTorch** and **Tensorflow** when applicable in the [issue](https://github.com/shirin1996/Prediction_Project/issues) section of this project;
 * A short, self-contained, code snippet that allows us to reproduce the bug in less than 30s;
 * Provide the full traceback if an exception is raised
 
