@@ -4,3 +4,4 @@ This project is copyright Shirin Yamani. It is licensed under the MIT license. S
 ## Contribution 
 Everyone is welcome to contribute, and we value everybody's contribution. However, before writing code, we strongly advise you to read the project contribution guidelines and policies under `CONTRIBUTING.md` tab. 
 ## Configuration
+![tf](https://user-images.githubusercontent.com/75791599/137516649-6e0793e9-d758-47aa-8690-daf943a3a533.png)
