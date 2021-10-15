@@ -65,7 +65,7 @@ Any software component (proprietary, third-party, or open-source) that makes its
 ## Code of Conduct 
 This project and everyone participating in it is governed by the `CODE_OF_CONDUCT`. Before start participating, please review the structures there.
 ## Style guide
-For documentation strings, `Transformers` follows the g[oogle style](https://google.github.io/styleguide/pyguide.html). 
+For documentation strings, `Transformers` follows the [google style](https://google.github.io/styleguide/pyguide.html). 
 ## Start contributing! (Pull Requests)
 
 Before writing code, we strongly advise you to search through the existing issues to make sure that nobody is already working on the same thing. If you are
