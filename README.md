@@ -10,3 +10,5 @@ Everyone is welcome to contribute, and we value everybody's contribution. Howeve
 Install Python 3.7+
 
 `pip install -r requirements.txt`
+`conda install nltk`
+`conda install numpy`
