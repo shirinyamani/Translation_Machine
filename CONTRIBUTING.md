@@ -4,8 +4,36 @@ Everyone is welcome to contribute, and we value everybody's contribution. You ca
 * Implementing new models (please provide short description of the model and link to the paper).
 * Contributing to the the documentation.
 * Adding new features to the code (Write a *full paragraph* describing the feature and provide a **code snippet** that demonstrates its future use).
+## Did you find a bug?
+We thanks to the users who notify us of the problems they encounter. So thank you for reporting an issue.
 
-Please just note that to submit contributes, there are just a few small guidelines you need kindly to follow.(*Guidelines*)
+First, we would really appreciate it if you could make sure the bug was not already reported (use the search bar on Github under [Issues](https://github.com/shirin1996/Prediction_Project/issues)).
+
+Did not find it? :( So we can act quickly on it, please follow these steps:
+
+* Include your **OS type and version**, the versions of **Python**, **PyTorch** and **Tensorflow** when applicable in the [issue](https://github.com/shirin1996/Prediction_Project/issues) section of this project;
+* A short, self-contained, code snippet that allows us to reproduce the bug in less than 30s;
+* Provide the full traceback if an exception is raised
+
+## Do you want to implement a new model?
+Awesome! Please provide the following information:
+
+* Short description of the model and link to the paper;
+* Link to the implementation if it is open-source;
+* Link to the model weights if they are available.
+* If you are willing to contribute the model yourself, let us know so we can best guide you.
+
+## Do you want a new feature (that is not a model)?
+A world-class feature request addresses the following points:
+
+1. Motivation first:
+* Is it related to a problem/frustration with the library? If so, please explain why. Providing a code snippet that demonstrates the problem is best.
+* Is it related to something you would need for a project? We'd love to hear about it!
+* Is it something you worked on and think could benefit the community? Awesome! Tell us what problem it solved for you.
+2. Write a full paragraph describing the feature;
+3. Provide a code snippet that demonstrates its future use;
+4. In case this is related to a paper, please attach a link;
+5. Attach any additional information (drawings, screenshots, etc.) you think may help.
 
 ## Contribution Guidelines:
 1. Contributor License Agreement:
@@ -36,7 +64,8 @@ Any software component (proprietary, third-party, or open-source) that makes its
 
 ## Code of Conduct 
 This project and everyone participating in it is governed by the `CODE_OF_CONDUCT`. Before start participating, please review the structures there.
-
+## Style guide
+For documentation strings, `Transformers` follows the [google style](https://google.github.io/styleguide/pyguide.html). 
 ## Start contributing! (Pull Requests)
 
 Before writing code, we strongly advise you to search through the existing issues to make sure that nobody is already working on the same thing. If you are
