@@ -22,12 +22,13 @@ Install Python 3.7+
 
 Currently, the transformer model is the state-of-the-art approach to a lot of major natural language processing tasks such machine translation and language modelling. The Transformer model can be split into two main components, the encoder and the decoder. 
 
-![](data/uploads/transformer_architecture.png)
+![tf](https://user-images.githubusercontent.com/75791599/145219958-aa6423b2-e13e-44ea-8190-ba567b7a1daa.png)
 
 ### Encoder
 The input is embedded using nn.Embedding to create an embedding vector to uniquely represent each word token as well as closely relate similar words. Positional encoding encodes a token based on the position in the input sequence instead of it's token value. The encoder outputs a sequence of context vectors. Unlike the RNN where the token being read is only influenced by the hiddens states of previous tokens, in the transformer model, each token is influenced by all tokens in the sequence. This also means that the entire input sentence can be processed simultaneously instead of word by word, allowing for much more parallelism. The transformer model in the original paper uses static embedding while current and state-of-the-art transformer NLP models such as BERT use dynamic or learnable positional embeddings. As such, we will use learnable position embeddings. After the input sequence is embedded, it is passed through the Multi-Head Attention layer, which is the promiment aspect of a transformer model. Multiheaded attention takes in a value, key, and query. The Query and key are multiplied and scaled before their product is multiplied by the value. This is known as Scaled Dot-Product Attention as seen in the Diagram Below.
 
-![](data/uploads/multi-head_attention.png)
+![tf1](https://user-images.githubusercontent.com/75791599/145220164-8769458d-7ec3-4fd9-8903-3499f3b15713.png)
+
 
 Multi-Headed attention are multiple scaled dot-product attention layers stacked upon each other and concatenated, then passed through a dense layer. Multi-Headed attention allows the transformer model to jointly deal with multiple subspace representations from different positioned tokens.
 
