@@ -77,6 +77,8 @@ If you want to test the software without training or any other steps described a
   - Step 2: 
     - Ensure you have all the requirements necessary in the requirements.txt file. Main ones are Pytorch and other math libraries such as Numpy.
   - Step 3:
+    - Set your Directory same as where you clone the repository. 
+  - Step 4:
     - Run the python script **translate.py** and entering the hyperparameters **input_text, input_lang, output_lang**. For example,
       ```
       python translate.py --input_text "How is your day today?" --input_lang english --output_lang french
