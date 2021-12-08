@@ -3,6 +3,21 @@ A multi-language translator that utilizes the transformer neural network model d
 
 Reference to [**Attention Is All You Need**](https://arxiv.org/pdf/1706.03762.pdf) paper.
 
+## Licensing
+This project is copyright Shirin Yamani. It is licensed under the MIT license. See `LICENSE.txt` for the complete license.
+
+## Contribution 
+Everyone is welcome to contribute, and we value everybody's contribution. However, before writing code, we strongly advise you to read the project contribution guidelines and policies under [CONTRIBUTING.md](https://github.com/shirin1996/Prediction_Project/blob/main/CODE_OF_CONDUCT.md) tab. 
+
+## Configuration
+Install Python 3.7+
+
+`pip install -r requirements.txt`
+
+`conda install nltk`
+
+`conda install numpy`
+
 ## Model
 
 Currently, the transformer model is the state-of-the-art approach to a lot of major natural language processing tasks such machine translation and language modelling. The Transformer model can be split into two main components, the encoder and the decoder. 
