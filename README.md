@@ -9,10 +9,10 @@ This project is copyright Shirin Yamani. It is licensed under the MIT license. S
 ## Contribution 
 Everyone is welcome to contribute, and we value everybody's contribution. However, before writing code, we strongly advise you to read the project contribution guidelines and policies under [CONTRIBUTING.md](https://github.com/shirin1996/Prediction_Project/blob/main/CODE_OF_CONDUCT.md) tab. 
 
-## Configuration
-Install Python 3.7+
+## Configuration  
 
-`pip install -r requirements.txt`
+Make sure to install `requirements.txt`file. Main ones are Pytorch and other math libraries such as Numpy.
+Upon your preference you can either install via  `conada` or `pip`.
 
 `conda install nltk`
 
