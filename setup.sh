@@ -1,8 +1,7 @@
 #!/bin/bash
 
 check_install () {
-    sudo apt install python3 python3-pip 
-    sudo apt install git
+    apt install -y python3 python3-pip 
 }
 
 install_deps () {
