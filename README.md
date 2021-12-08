@@ -4,7 +4,7 @@ A multi-language translator that utilizes the transformer neural network model d
 Reference to [**Attention Is All You Need**](https://arxiv.org/pdf/1706.03762.pdf) paper.
 
 ## Licensing
-This project is copyright Shirin Yamani. It is licensed under the MIT license. See `LICENSE.txt` for the complete license.
+This project is copyright Shirin Yamani. It is licensed under the MIT license. See [LICENSE.txt](https://github.com/shirin1996/Prediction_Project/blob/main/LICENSE) for the complete license.
 
 ## Contribution 
 Everyone is welcome to contribute, and we value everybody's contribution. However, before writing code, we strongly advise you to read the project contribution guidelines and policies under [CONTRIBUTING.md](https://github.com/shirin1996/Prediction_Project/blob/main/CODE_OF_CONDUCT.md) tab. 
