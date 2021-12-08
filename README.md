@@ -12,11 +12,9 @@ Everyone is welcome to contribute, and we value everybody's contribution. Howeve
 ## Configuration  
 
 Make sure to install `requirements.txt`file. Main ones are Pytorch and other math libraries such as Numpy.
-Upon your preference you can either install via  `conada` or `pip`.
-
-`conda install nltk`
-
-`conda install numpy`
+Upon your preference you can either install via  `conda` or `pip`.
+For example: 
+`conda install numpy` or 
 
 ## Model
 
