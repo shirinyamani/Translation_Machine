@@ -11,10 +11,11 @@ Everyone is welcome to contribute, and we value everybody's contribution. Howeve
 
 ## Configuration  
 
-Make sure to install `requirements.txt`file. Main ones are Pytorch and other math libraries such as Numpy.
+PLease Make sure to install `requirements.txt`file. The main libararies are Pytorch and Math library such as Numpy.
 Upon your preference you can either install via  `conda` or `pip`.
+
 For example: 
-`conda install numpy` or 
+`conda install numpy` or `pip install numpy`
 
 ## Model
 
@@ -82,20 +83,16 @@ If you want to test the software without training or any other steps described a
       python translate.py --input_text "How is your day today?" --input_lang english --output_lang french
       ```  
       Here are the list of possible input -> output pairs:
-        - English -> French
-        - English -> German
+        - English -> Frenc
         - English -> Italian
-        - English -> Portuguese
         - French -> English
-        - German -> English
         - Italian -> English
-        - Portuguese -> English
     
 ## Datasets
 
-For this project, the European Parliament Proceedings Parallel Corpus 1996-2011 is used. Note, the downloaded files are tgz files. In order to use them, please extract them and name them according to the format you see in this repo, including appropriately expanding names for convenient access. Link to dataset: https://www.statmt.org/europarl/
+For this project, the European Parliament Proceedings Parallel Corpus 1996-2011 is used. Note, the downloaded files are tgz files. In order to use them, please extract them and name them according to the format you see in this repo, including appropriately expanding names for convenient access. Your can find the dataset here: [dataset](https://www.statmt.org/europarl/)
 
-Reference to paper: http://homepages.inf.ed.ac.uk/pkoehn/publications/europarl.pdf
+Reference to paper: [Europarl: A multilingual Corpus for Evaluation of Machine Translation](http://homepages.inf.ed.ac.uk/pkoehn/publications/europarl.pdf)
     
 ## Samples
 
@@ -118,15 +115,6 @@ Since I do not know many of the langauges I have trained on the Transformer mode
 
 As you can see with the example above, the prediction may not be word to word with Google Translate results, but the prediction still maintains the semantic information and context that was in the input.
 
-### English -> German
-**Input:** "this is a short paragraph."  
-**Prediction:** "das ist ein kurzer absatz ."  
-**Google Translate:** "dies ist ein kurzer Absatz"  
-
-**Input:** "what is your name?"  
-**Prediction:** "was ist ihr name ?"  
-**Google Translate:** "was ist ihr name?" 
-
 ### Italian -> English
 **Input:** "oggi è una giornata bellissima."  
 **Prediction:** "today is a magnificent day ."  
@@ -136,11 +124,3 @@ As you can see with the example above, the prediction may not be word to word wi
 **Prediction:** "cooperation is key to success ."  
 **Google Translate:** "collaboration is the key to success."  
 
-### Portuguese -> English
-**Input:** "é importante cuidar de sua saúde mental."  
-**Prediction:** "it is important to promote their mental health ."  
-**Google Translate:** "it is important to take care of your mental health."  
-
-**Input:** "você deve dormir uma boa quantidade de sono todos os dias."  
-**Prediction:** "sleep a good amount of sleep every day ."  
-**Google Translate:** "you should get a good amount of sleep every day."  
