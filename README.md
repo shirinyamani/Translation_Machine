@@ -83,7 +83,7 @@ If you want to test the software without training or any other steps described a
       python translate.py --input_text "How is your day today?" --input_lang english --output_lang french
       ```  
       Here are the list of possible input -> output pairs:
-        - English -> Frenc
+        - English -> French
         - English -> Italian
         - French -> English
         - Italian -> English
