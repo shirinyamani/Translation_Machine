@@ -12,8 +12,7 @@ Everyone is welcome to contribute, and we value everybody's contribution. Howeve
 ## Configuration  
 
 PLease Make sure to install `requirements.txt` file. The main libararies are Pytorch and Math library such as Numpy.
-Upon your preference you can either install via  `conda` or `pip`.
-
+you can install the requirement.text via `pip install -r requirements.txt` or you can do in manually; 
 For example: 
 `conda install numpy` or `pip install numpy`
 
