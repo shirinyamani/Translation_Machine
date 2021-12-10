@@ -1,3 +1,8 @@
+# Copyright Shirin Yamani,2021
+# Licensed under MIT licensed.
+# See LICENSE.txt for more information.
+
+
 import re
 import unicodedata
 import torch
