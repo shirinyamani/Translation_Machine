@@ -1,3 +1,8 @@
+# Copyright Shirin Yamani,2021
+# Licensed under MIT licensed.
+# See LICENSE.txt for more information.
+
+
 #dictionary class that keeps track of all words in a given language as well as assigning a
 #token to them
 
