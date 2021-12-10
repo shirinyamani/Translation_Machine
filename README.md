@@ -67,7 +67,7 @@ Python Files
   - utilities.py
     - contains utility functions to help with preprocessing and post processing data.
     
-## Testing
+## Pure Testing
 If you want to test the software without training or any other steps described above, then follow the following steps:
 
   - Step 1:
