@@ -89,7 +89,8 @@ If you want to test the software without training or any other steps described a
         - Italian -> English
      
 ## Runing with Docker 
-you can use command below in your machine where the project has clonned.
+you can use command below in your machine to run the project with docker.
+
 `docker run shirin1996/ossproject "How are you?"`
 
 ## Datasets
