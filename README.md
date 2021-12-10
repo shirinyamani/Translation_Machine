@@ -87,7 +87,11 @@ If you want to test the software without training or any other steps described a
         - English -> Italian
         - French -> English
         - Italian -> English
-    
+     
+## Runing with Docker 
+you can use command below in your machine where the project has clonned.
+`docker run shirin1996/ossproject "How are you?"`
+
 ## Datasets
 
 For this project, the European Parliament Proceedings Parallel Corpus 1996-2011 is used. Note, the downloaded files are tgz files. In order to use them, please extract them and name them according to the format you see in this repo, including appropriately expanding names for convenient access. Your can find the dataset here: [dataset](https://www.statmt.org/europarl/)
