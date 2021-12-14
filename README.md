@@ -86,11 +86,15 @@ If you want to test the software without training or any other steps described a
         - English -> Italian
         - French -> English
         - Italian -> English
-     
+## Unit Testing 
+If you want to unit test, please run the below command;
+```
+      python -m pytest test_utilities.py
+```
 ## Runing with Docker 
 you can use command below in your machine to run the project with docker.
-
-`docker run shirin1996/ossproject "How are you?"`
+- Install Docker
+- `docker run shirin1996/ossproject "How are you?"`
 
 ## Datasets
 
