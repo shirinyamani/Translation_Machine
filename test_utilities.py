@@ -1,6 +1,11 @@
 import pytest 
+from utilities import tokenize
 
-import dictionary
-def test_tokenize(sentence, dictionary, MAX_LENGTH=60):
-    assert tokenize(sentence, dictionary, MAX_LENGTH=60) == [
-        "how are you?: how, are, you, ?"]
+
+def test_tokenize():
+    from dictionary import Dictionary
+    dic = Dictionary("test")
+    sent = "Hi testing"
+    dic.add_sentence(sent)
+    exp_res = [1, 3, 4, 2, 0, 0, 0]
+    assert tokenize(sent, dic, 5) == exp_res
