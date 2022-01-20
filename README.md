@@ -1,5 +1,5 @@
 # Transformer Multi-Language Translator
-This Translator uses the Transformer architecture. It contains an encoder and a decoder also has multiple languages trained. The limit currently are resources thus all languages are paired with English. Please refer the languages section below for more information. This translator has fairly good accuracy considering it was trained on downsized datasets due to resource limitations as well as low epochs. If you have the resources, then you may clone the REPO and train the model on larger datasets as well as more Epochs.
+This Translator uses the Transformer architecture. It contains an encoder and a decoder in multi-head architecture which has trained on multiple languages(please refer to the languages section below for more information). This translator has fairly good accuracy considering it was trained on downsized datasets due to resource limitations as well as low epochs. If you have the resources, then you may clone the REPO and train the model on larger datasets as well as more Epochs.
 
 Reference to [**Attention Is All You Need**](https://arxiv.org/pdf/1706.03762.pdf) paper.
 
